@@ -4,6 +4,7 @@ Duckify Links:
 https://duckify.huhn.me/
 
 Programming:
+https://duckify.huhn.me/docs/digispark/arduino-setup
 https://digistump.com/wiki/digispark/tutorials/connecting
 
 Github Stars:
